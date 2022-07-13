@@ -1,8 +1,8 @@
-#" Apache Spark - course
+### Apache Spark - course
 
 Here will be tasks of Apache Spark course
 
-For runnig the the code is used Colab Google.
+For runnig the code is used Colab Google.
 
 ### Task 1
 
